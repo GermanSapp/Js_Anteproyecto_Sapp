@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "tipo": "Componente",
+    "nombre": "Pack X 10u Integrado Lm555",
+    "precio": 2,
+    "foto": "./media/i1.jpg"
+}, {
+    "id": 2,
+    "tipo": "Componente",
+    "nombre": "Pack X 5 Capacitor Electrolitico 47uf 50v",
+    "precio": 3,
+    "foto": "./media/c2.jpg"
+}, {
+    "id": 3,
+    "tipo": "Instrumento",
+    "nombre": "Multímetro Barovo con funda",
+    "precio": 10,
+    "foto": "./media/in3.jpg"
+}, {
+    "id": 4,
+    "tipo": "Instrumento",
+    "nombre": "Pinza amperométrica digital Uni-T UT204+ 600A",
+    "precio": 12,
+    "foto": "./media/in4.jpg"
+}, {
+    "id": 5,
+    "tipo": "Instrumento",
+    "nombre": "Volt/Amperímetro digital para gabinete",
+    "precio": 5,
+    "foto": "./media/in6.jpg"
+}, {
+    "id": 6,
+    "tipo": "Instrumento",
+    "nombre": "Osciloscopio Digital Owon 100mhz Xds2102a 12 Bits",
+    "precio": 175,
+    "foto": "./media/o3.jpg"
+}, {
+    "id": 7,
+    "tipo": "Instrumento",
+    "nombre": "Uni-t Osciloscopio Digital Utd2102cex 100mhz 1gsa",
+    "precio": 158,
+    "foto": "./media/o5.jpg"
+}, {
+    "id": 8,
+    "tipo": "Componente",
+    "nombre": "Potenciometro 5k Ohms Lineal Pack X 5 Unid",
+    "precio": 2,
+    "foto": "./media/po2.jpg"
+}, {
+    "id": 9,
+    "tipo": "Componente",
+    "nombre": "Resistencia 1/4w 270 Kohm 0.25 W",
+    "precio": 1,
+    "foto": "./media/r2.jpg"
+}, {
+    "id": 10,
+    "tipo": "Radio",
+    "nombre": "Radio antigua 1952",
+    "precio": 350,
+    "foto": "./media/ra1.jpg"
+}, {
+    "id": 11,
+    "tipo": "Radio",
+    "nombre": "Radio antigua 1944",
+    "precio": 290,
+    "foto": "./media/ra2.jpg"
+}, {
+    "id": 12,
+    "tipo": "Radio",
+    "nombre": "Radio antigua 1958",
+    "precio": 120,
+    "foto": "./media/ra4.jpg"
+}, {
+    "id": 13,
+    "tipo": "Radio",
+    "nombre": "Radio antigua 1956",
+    "precio": 130,
+    "foto": "./media/ra5.jpg"
+}, {
+    "id": 14,
+    "tipo": "Valvula",
+    "nombre": "Valvula De Pre Svetlana 12ax7",
+    "precio": 500,
+    "foto": "./media/v3.jpg"
+}, {
+    "id": 15,
+    "tipo": "Valvula",
+    "nombre": "Válvula Jj 6l6 Gc",
+    "precio": 200,
+    "foto": "./media/v4.jpg"
+}, {
+    "id": 16,
+    "tipo": "Valvula",
+    "nombre": "Válvula Sovtek 5ar4",
+    "precio": 240,
+    "foto": "./media/v5.jpg"
+}, {
+    "id": 17,
+    "tipo": "Valvula",
+    "nombre": "Válvula EHX 12bh7 Rusa",
+    "precio": 300,
+    "foto": "./media/v6.jpg"
+}, {
+    "id": 18,
+    "tipo": "Valvula",
+    "nombre": "Válvula Mullard 12at7 Ecc81",
+    "precio": 250,
+    "foto": "./media/v7.jpg"
+}]
